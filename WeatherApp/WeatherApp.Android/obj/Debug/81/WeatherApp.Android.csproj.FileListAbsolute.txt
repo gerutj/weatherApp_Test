@@ -51,7 +51,6 @@ C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\R.txt
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\uploadflags.txt
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
-C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\Mono.Android.pdb
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\mscorlib.pdb
@@ -97,3 +96,11 @@ C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\linksrc\Mono.Security.pdb
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.dll.mdb
 C:\Users\User\source\repos\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\linksrc\WeatherApp.dll.mdb
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\build.props
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\adb.props
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\WeatherApp.Android.csproj.AssemblyReference.cache
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\res.flag
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\WeatherApp.Android.dll
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp.Android\obj\Debug\81\WeatherApp.Android.pdb

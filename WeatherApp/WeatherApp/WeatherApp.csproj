@@ -1,7 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+     <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -10,7 +11,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+	  <!--Se agrega la paqueteria de Xamarin.Essentials, as[i mismo desde el apartado de Nuget, Se instalaron las veriones solicitadas por el IDE
+	  para las paqueterias Xamarin.AndroidX.MediaRouter y Xamarin.AndroidX.Palette.
+	  
+	  Se instalo tambien el paquete de Xamarin.AndroidX.Annotation-->
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
+	  <PackageReference Include="Xamarin.Forms" Version="5.0.0.2083" />
+	  <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
   </ItemGroup>
 </Project>

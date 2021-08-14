@@ -15,6 +15,8 @@ using Android.App;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
+//Se agrega esta linea que permite la conexion con el api http.
+[assembly: Application(UsesCleartextTraffic = true)]
 
 // Version information for an assembly consists of the following four values:
 //

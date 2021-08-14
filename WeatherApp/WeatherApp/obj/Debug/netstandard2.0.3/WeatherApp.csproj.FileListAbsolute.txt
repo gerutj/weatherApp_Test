@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0.3\WeatherApp.deps.json
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0.3\WeatherApp.dll
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0.3\WeatherApp.pdb
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\App.xaml.g.cs
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\Views\MainPage.xaml.g.cs
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.AssemblyInfo.cs
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\XamlC.stamp
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.dll
+C:\Users\German\source\repos\weatherApp_Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0.3\WeatherApp.pdb
